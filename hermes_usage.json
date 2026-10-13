@@ -1,0 +1,18 @@
+{
+  "estimated_cost_usd": 0.0,
+  "cost_status": "unknown",
+  "cost_source": "none",
+  "input_tokens": 208056,
+  "output_tokens": 2861,
+  "cache_read_tokens": 1498183,
+  "cache_write_tokens": 0,
+  "reasoning_tokens": 0,
+  "total_tokens": 1709100,
+  "api_calls": 37,
+  "model": "gemini-3.7-flash",
+  "provider": "gemini",
+  "session_id": "20261013_050636_e736ca",
+  "completed": true,
+  "failed": false,
+  "service_tier": null
+}
